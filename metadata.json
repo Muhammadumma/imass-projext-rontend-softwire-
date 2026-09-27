@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hand Sanitizer Monitoring & Control System",
+  "description": "ESP32 IoT telemetry dashboard, hardware simulator, and control console for smart hand sanitizer dispensing units.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
